@@ -14,12 +14,13 @@ To start the main game select "Play Set X" from the title screen.  The set used 
 
 #### Gameplay Controls
 
+```
 D-Pad  - Move piece
 A      - Rotate primary direction
 B      - Rotate opposite direction
 Start  - Pause the game
 Select - Exits to the title screen when paused
-
+```
 
 ### Piece Editor
 
@@ -29,14 +30,17 @@ To start the editor select "Edit Sets" from the title screen.
 
 #### Editor Controls
 
+```
 D-Pad  - Move cursor (actual movement depends on location in editor)
 A      - Confirm selections and toggle blocks in the piece grid
 B      - Cancel actions
 Start  - Exit the editor (you will be asked if you want to exit, data will not be saved)
 Select - When holding Select press left/right to change the active piece in the set
+```
 
 #### Editor Icons
 
+```
 Edit Piece         - Allows you to edit the blocks of the current piece (A toggles blocks on/off)
 Center of Rotation - Allows you to move the point at which the piece will rotate about
 Rotation Direction - Changes the piece rotation from Counter-Clockwise, Clockwise and No Rotation (X)
@@ -46,7 +50,7 @@ Insert Piece       - Inserts a piece into the set after the current piece (and m
 Delete Piece       - Deletes the current piece (no confirmation)
 Save Set           - Saves the set in one of the RAM slots (5-8)
 Load Set           - Loads a set from one of the RAM slots (5-8)
-
+```
 
 ### High Scores
 
@@ -68,7 +72,6 @@ make
 ## Authors 
 
 * Written in 2005 by **Dave VanEe** [tbsp](https://github.com/tbsp) dave.vanee@gmail.com
-* Hiscore library by **H. Mulder**
 * Refactored in 2017 by **Dave VanEe**
 
 ## License
@@ -83,12 +86,12 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 
 ## Tools Used
 
-RGBDS
-BGB
-GB Tile Designer
-GBITOOL (pcx2gbi)
+* RGBDS
+* BGB
+* GB Tile Designer
+* GBITOOL (pcx2gbi)
 
 ### Version History
 
-v1.0 Initial Release (2005-07-17)
-v1.1 Refactor and Source Release (2017-10-15)
+* v1.0 Initial Release (2005-07-17)
+* v1.1 Refactor and Source Release (2017-10-15)

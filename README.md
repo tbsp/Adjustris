@@ -4,6 +4,12 @@ This game was made as an entry for the PDRoms Coding Competition 3.33.
 
 The game takes a common game type and adds the ability to edit sets of pieces that can then be used in the main game.
 
+To play the game, simply download the latest release and run it in any Game Boy emulator. You can find the latest release of the game here:
+
+    https://github.com/tbsp/Adjustris/releases
+    
+This game has been tested on real hardware and works great!
+
 ## Gameplay
 
 ### Main Game
@@ -91,7 +97,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 * GB Tile Designer
 * GBITOOL (pcx2gbi)
 
-### Version History
+## Version History
 
 * v1.0 Initial Release (2005-07-17)
 * v1.1 Refactor and Source Release (2017-10-15)

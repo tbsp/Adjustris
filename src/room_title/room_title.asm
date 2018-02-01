@@ -27,7 +27,7 @@ RoomTitle::
 .waitForLY
     ldh     a,[rLY]
     cp      $90
-    jr      nz,.waitForLY
+    jr      c,.waitForLY
     xor     a
     ldh     [rLCDC],a
 .screenOff

@@ -65,7 +65,7 @@ There is a 1st, 2nd and 3rd place for every piece set.  Any changes made to a sa
 
 ## Prerequisites
 
-You'll require RGBDS in order to build Adjustris for yourself.
+You'll require [https://github.com/rednex/rgbds](RGBDS) in order to build Adjustris for yourself.
 
 ## Building
 
@@ -92,7 +92,7 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 
 ## Tools Used
 
-* RGBDS
+* RGBDS - https://github.com/rednex/rgbds
 * BGB
 * GB Tile Designer
 * GBITOOL (pcx2gbi)

@@ -77,7 +77,7 @@ make
 
 ## Authors 
 
-* Written in 2005 by **Dave VanEe** [tbsp](https://github.com/tbsp) dave.vanee@gmail.com
+* Written in 2005 by **Dave VanEe** [tbsp](https://github.com/tbsp)
 * Refactored in 2017 by **Dave VanEe**
 
 ## License

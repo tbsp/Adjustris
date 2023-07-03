@@ -67,6 +67,8 @@ There is a 1st, 2nd and 3rd place for every piece set.  Any changes made to a sa
 
 You'll require RGBDS in order to build Adjustris for yourself.
 
+A Make implementation is also required, on Microsoft Windows [https://www.msys2.org/](msys2) can be used.
+
 ## Building
 
 To build, simply run:
